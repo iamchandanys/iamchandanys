@@ -9,10 +9,9 @@ Welcome to my GitHub profile! I'm a passionate developer from Bengaluru, India, 
 ## 🚀 About Me
 
 - 🔭 Currently leading development at [Briisk](https://www.briisk.io/)
-- 🤖 Creator of **Beacon AI** - An AI platform for smart chatbots and virtual assistants
+- 🤖 Creator of [**Beacon AI**](https://beaconai.azurewebsites.net/) - An AI platform for smart chatbots and virtual assistants
 - ☁️ Azure Cloud specialist with expertise in AI services and modern web development
-- 🌱 Learning: Data Science, Machine Learning, Deep Learning, and NLP
-- 🎯 Goal: Azure 204 Certification in 2025
+- 🌱 Learning: Generative Artificial Intelligence
 - 📫 Reach me: [iamchandanys@gmail.com](mailto:iamchandanys@gmail.com)
 
 ---
@@ -21,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Bengaluru, India, 
 
 ### Frontend & Backend
 
-- **Languages:** Python, JavaScript, TypeScript
+- **Languages:** Python, JavaScript, TypeScript, C#
 - **Frameworks:** Next.js, React.js, Angular, .NET Core, Node.js
 - **Styling:** Tailwind CSS, Bootstrap, Material UI
 
@@ -91,22 +90,14 @@ Intelligent chatbot using Retrieval-Augmented Generation
 
 ---
 
-## 🎯 2025 Learning Goals
-
-- 📊 **Data Science & Machine Learning** - Expanding into advanced analytics
-- 🧠 **Deep Learning & NLP** - Building smarter AI solutions
-- 🏆 **Azure 204 Certification** - Advancing cloud expertise
-- 🔬 **Transformers & LLMs** - Staying at the forefront of AI
-
----
-
 ## 📊 AI Journey Milestones
 
 - **Dec 2024:** Launched first AI Chatbot with RAG
 - **Jan 2025:** Built Insurance Claims AI Agent
 - **Feb 2025:** Created Car Inspection AI Agent with image processing
 - **Jun 2025:** Explored Agentic AI with Microsoft AutoGen
-- **Jul 2025:** Deployed Azure MCP Server with LangGraph _(In Progress)_
+- **Jul 2025:** Deployed Azure MCP Server with LangGraph
+- **Aug 2025:** Started building Beacon AI platform _(Currently in progress)_
 
 ---
 
@@ -124,7 +115,5 @@ Intelligent chatbot using Retrieval-Augmented Generation
 > "Living, learning, & leveling up one day at a time."
 
 ---
-
-⭐ **Fun Fact:** I love transforming ideas into reality with secure, high-performance, and innovative cloud architectures!
 
 _Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities!_
