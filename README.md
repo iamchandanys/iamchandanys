@@ -9,9 +9,8 @@ Welcome to my GitHub profile! I'm a passionate developer from Bengaluru, India, 
 ## 🚀 About Me
 
 - 🔭 Currently leading development at [Briisk](https://www.briisk.io/)
-- 🤖 Creator of [**Beacon AI**](https://beaconai.azurewebsites.net/) - An AI platform for smart chatbots and virtual assistants
+- 🤖 Creator of [**Beacon AI**](https://beaconai.azurewebsites.net/) - A platform that enables you to launch AI assistants in minutes.
 - ☁️ Azure Cloud specialist with expertise in AI services and modern web development
-- 🌱 Learning: Generative Artificial Intelligence
 - 📫 Reach me: [iamchandanys@gmail.com](mailto:iamchandanys@gmail.com)
 
 ---
@@ -28,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Bengaluru, India, 
 
 - **Microsoft Azure:** App Services, Functions, Storage, Cosmos DB, MS Entra ID, Key Vault, Application Insights, API Management
 - **AI Technologies:** Azure AI Foundry, LLMs, AI Agents, LangChain, LangGraph, LangSmith, Microsoft AutoGen, Model Context Protocol (MCP)
-- **Other Tools:** Visual Studio Code, GitHub, Azure DevOps, GitLab, Notion
+- **Other Tools:** Visual Studio & Code, GitHub, Azure DevOps, GitLab, Notion, Jira
 
 ---
 
@@ -41,43 +40,13 @@ A production-ready AI platform that helps businesses create smart chatbots and v
 - **Features:** Advanced RAG with streaming responses, multi-format data ingestion, feedback systems
 - **Tech Stack:** LangChain, LangGraph, OpenAI, Azure AI, Next.js, Python
 
-### 🔗 [Azure MCP Server with LangGraph](https://github.com/iamchandanys/azure-mcp-with-langgraph)
-
-Model Context Protocol server combining LangGraph workflows with Azure resources
-
-- **Tech:** LangGraph, Azure MCP Server, Cosmos DB, Python
-
-### 🧠 [Multi-Model AI Agent Team](https://github.com/iamchandanys/chatbot-az-autogen)
-
-AI agent leveraging multiple models for various tasks using Microsoft AutoGen
-
-- **Features:** Product details retrieval, policy management, claims processing
-
-### 🚗 [Car Inspection AI Agent](https://github.com/iamchandanys/chatbot-az-prompt-flow)
-
-Smart car inspection system with real-time image processing
-
-- **Tech:** GPT-4o Mini, Azure AI Prompt Flow, Next.js, .NET
-
-### 🏍️ [Bike Insurance Claim AI Agent](https://github.com/iamchandanys/chatbot-az-prompt-flow)
-
-Automated insurance claims processing with AI guidance
-
-- **Features:** Real-time claim assistance, automated verification
-
-### 💬 [RAG Chatbot](https://achatbot.azurewebsites.net/)
-
-Intelligent chatbot using Retrieval-Augmented Generation
-
-- **Tech:** RAG, GPT-4o Mini, Azure AI Search, Azure Cosmos DB
-
 ---
 
 ## 📈 GitHub Stats
 
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchandanys&show_icons=true&theme=radical)
+[![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchandanys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanys&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanys&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
