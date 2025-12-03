@@ -45,12 +45,8 @@ A production-ready AI platform that helps businesses create smart chatbots and v
 ## 📈 GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iamchandanys&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamchandanys&layout=compact&theme=default&langs_count=8&card_width=320"/>
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=iamchandanys&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamchandanys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamchandanys&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320"/>
 </p>
 
 ---
