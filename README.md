@@ -44,9 +44,14 @@ A production-ready AI platform that helps businesses create smart chatbots and v
 
 ## 📈 GitHub Stats
 
-[![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchandanys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamchandanys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamchandanys&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320"/>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanys&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanys&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -76,12 +81,6 @@ A production-ready AI platform that helps businesses create smart chatbots and v
 - 💼 **LinkedIn:** [linkedin.com/in/iamchandanys](https://www.linkedin.com/in/iamchandanys/)
 - 📧 **Email:** [iamchandanys@gmail.com](mailto:iamchandanys@gmail.com)
 - 🚀 **Beacon AI Demo:** [Try it here](https://beaconai.azurewebsites.net/cw?cid=e2778ce2-def1-4deb-b4a6-2ffcc24ae9cd&pid=4db827c8-a39d-4d3c-a3e9-caed34bf6525)
-
----
-
-## 💭 Quote
-
-> "Living, learning, & leveling up one day at a time."
 
 ---
 
